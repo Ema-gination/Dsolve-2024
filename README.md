@@ -7,13 +7,14 @@
 Name  
 
 # Team Member
-Chris Elsa Binu
-Member 1 Github Link
-Ema Sara Kurian
-MEmber 2 Github Link
+
+Member 1 
+Chris Elsa Binu (https://github.com/chrisjmj3)
+Member 2 
+Ema Sara Kurian (https://github.com/Ema-gination)
 
 ## Idea
-Breif Idea in two three sentences 
+Brief Idea in two three sentences 
 
 ## Features 
 1. 
