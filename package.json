@@ -1,0 +1,15 @@
+{
+  "name": "dsolve-2024",
+  "version": "1.0.0",
+  "description": "![Banner Github](https://github.com/csacet/Dsolve-2024/assets/90597530/365f4d52-fd34-4df5-948d-8e95745a653a)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
