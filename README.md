@@ -7,8 +7,9 @@
 Name  
 
 # Team Member
+Chris Elsa Binu
 Member 1 Github Link
-
+Ema Sara Kurian
 MEmber 2 Github Link
 
 ## Idea
